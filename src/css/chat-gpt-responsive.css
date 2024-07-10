@@ -1,0 +1,339 @@
+@media (min-width:320px) and (max-width:767px) {
+    .mt-screen-container {
+        width: 100%;
+    }
+
+    .mt-breadcrumbs ul {
+        margin: 16px 0px;
+        padding: 0px 16px;
+    }
+
+    .mt-breadcrumbs ul li span {
+        font-size: 12px;
+    }
+
+    .mt-breadcrumbs ul li:after {
+        background-size: 100%;
+        width: 16px;
+        height: 16px;
+        margin: 0px 4px;
+    }
+
+    .mt-purchage-content-wrap {
+        padding: 24px 16px 24px 16px;
+    }
+
+    .mt-regular-heading {
+        font-size: 16px;
+    }
+
+    .pb16 {
+        padding-bottom: 8px;
+    }
+
+    .mt-two-ProductDevided-wrap .mt-product-listBox {
+        width: 100%;
+        padding: 10px;
+        border-radius: 8px;
+    }
+
+    .mt-image-listBox-box {
+        width: 64px;
+        height: 64px;
+    }
+
+    .mt-listBox-box-content {
+        width: calc(100% - 72px);
+    }
+
+    .mt-listBox-title {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 20px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        -webkit-line-clamp: 2;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+    }
+
+    .mt-expireOn, .mt-exInDays, .mt-expireIn {
+        font-size: 10px;
+    }
+
+    .mt-Product-link a {
+        font-size: 12px;
+    }
+
+    .mt-Product-link a img {
+        width: 16px;
+    }
+
+    /* Mahapack */
+    .mt-search-wrap .mt-search-box {
+        display: none;
+    }
+
+    .mt-package-back img {
+        width: 24px;
+        height: 24px;
+    }
+
+    .mt-productName {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .mt-search-wrap {
+        margin: 0px 16px 16px 16px;
+        width: calc(100% - 32px);
+    }
+
+    .mt-liveNow-button {
+        font-size: 12px;
+    }
+
+    .mt-manageExamSection {
+        height: auto;
+        border: 0px;
+        padding: 0px;
+        font-size: 12px;
+        background-image: url(../images/viewAllLink.svg);
+        background-repeat: no-repeat;
+        background-position: center right;
+        padding-right: 16px;
+        background-size: 16px;
+    }
+
+    .mt-manage-list {
+        margin-top: 4px;
+        margin-bottom: 12px;
+        flex-wrap: wrap;
+    }
+
+    .mt-manage-list ul {
+        flex-wrap: wrap;
+        margin-left: -6px;
+        margin-right: -6px;
+        overflow: hidden;
+    }
+
+    .mt-manage-list ul li {
+        max-width: 25%;
+        padding: 0px 6px;
+        margin-bottom: 12px;
+        box-sizing: border-box;
+        margin-right: 0px;
+    }
+
+    .mt-manageExamImage {
+        width: 56px;
+        height: 56px;
+        border-radius: 8px;
+    }
+
+    .mt-manageExamName {
+        font-size: 12px;
+        line-height: 14px;
+        margin-top: 4px;
+    }
+
+    .mt-carousel-wrap.innerTeacherCarousel {
+        margin: 0px -16px;
+    }
+
+    .mt-teacher-card {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 8px;
+        width: max-content;
+        min-width: max-content;
+        margin-right: 12px;
+    }
+
+    .mt-teacher-content {
+        width: 100%;
+        margin-top: 8px;
+        ;
+    }
+
+    .mt-teacher-title {
+        font-size: 12px;
+        font-weight: bold;
+    }
+
+    .mt-teacherSubTitle {
+        margin-top: 2px;
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    .mt-ftBatchesWrap {
+        margin-top: 24px;
+    }
+
+    .mt-two-favouriteBatches {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .mt-ftBatchesWrap .mt-carousel {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .mt-two-favouriteBatches .mt-product-listBox {
+        width: 100%;
+        padding: 8px;
+    }
+
+    .mt-two-favouriteBatches .mt-product-listBox .mt-image-listBox-box {
+        width: 108px;
+        height: 108px;
+    }
+
+    .mt-two-favouriteBatches .mt-product-listBox .mt-listBox-box-content {
+        width: calc(100% - 116px);
+    }
+
+    .mt-two-favouriteBatches .mt-listBox-title {
+        font-size: 14px;
+        line-height: 16px;
+        overflow: inherit;
+    }
+
+    .mt-two-favouriteBatches .mt-listBox-footer {
+        margin-top: 4px;
+    }
+
+    .mt-two-favouriteBatches .mt-batch-detail-list ul {
+        flex-wrap: wrap;
+    }
+
+    .mt-two-favouriteBatches .mt-batch-detail-list ul li {
+        width: 50%;
+        margin-top: 8px;
+        margin-right: 0px;
+    }
+
+    .mt-two-favouriteBatches .mt-listBox-title span {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        -webkit-line-clamp: 2;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+    }
+
+    .mtBookMarkIcon .mt-Bookmark-Tolltip {
+        right: -6px;
+        padding: 8px;
+    }
+
+    .mtBookMarkIcon .mt-Bookmark-Tolltip:after {
+        right: 8px;
+    }
+
+    /* mahapack poup */
+    .mt-popupMyScrolll{
+        backdrop-filter: blur(8px);
+    }
+    .mt-MyScollContent {
+        width: 100%;
+        max-width: 100%;
+        height: calc(100% - 100px);
+        border-radius: 16px 16px 0px 0px;
+        top: auto;
+        bottom: 0px;
+    }
+
+    .mt-headerMyScroll {
+        padding: 16px 12px 12px 12px;
+    }
+
+    .mt-headerText {
+        font-size: 18px;
+        line-height: 24px;
+        color: #202126;
+    }
+
+    .mt-MyScroll-list {
+        padding: 16px;
+    }
+    .mt-MyScroll-list ul{
+        margin: 0px -6px;
+    }
+
+    .mt-popupMyScrolll.mt-filter-pop .mt-MyScollContent{
+        height: 100%;
+        border-radius: 0px;
+    }
+    .label-sarchbar{padding: 0px 16px;}
+    .mt-seeachbar-box{padding: 0px 16px;}
+    .mt-PriorityExam-searchbar input{width: 100%; }
+    .mt-PriorityExam-searchbar{
+        width: calc(100% - 66px);
+    }
+    .mt-PriorityExam-list ul li{font-size: 14px;}
+    .mt-PriorityExam-footer, .mt-PriorityExam-list{padding: 16px;}
+    .mt-PriorityExam-list ul li input, .mt-PriorityExam-list ul li .checkboxImg{min-width: 24px;}
+    
+    /* test series */
+    .mt-wrap-withSidebar{display: flex; flex-direction: column;}
+    .mt-ContentSection{width: 100%;}
+    .mt-leftSidebar{display: flex; background-color: transparent; padding: 0px; max-width: 100%; padding-left: 16px;  overflow: auto;  margin-bottom: 24px; padding-bottom: 2px;}
+    .mt-category-list ul{display: inline-flex;}
+    .mt-category-list ul li{padding: 12px; margin-bottom: 0px; border-radius: 8px; background-color: #fff; border: 1px solid #EEEFF4; width: 100%; font-size: 16px; white-space: nowrap; margin-right: 8px;}
+    .mt-category-list ul li img{max-width: 16px; margin-right: 8px;}
+
+    .twoScrollBox .mt-topicBox, .practiceSet-scroller .mt-practiceSet-box{
+        min-width: calc(100% - 50px); margin-right: 12px;
+    }
+    .mt-topicBox{
+        padding: 8px;
+        border-radius: 8px;
+        width: 100%;
+    }
+    .mt-topicBoxImg{width: 36px; height: 36px;}
+    .mt-topicBoxImg img{max-width: 100%;}
+    .mt-topicBox-content{margin-left: 0px; max-width: calc(100% - 48px); padding-left: 12px;}
+    .mt-topicBox-text{font-size: 14px;}
+    .mt-topicBox-total{font-size: 10px; margin-top: 2px; line-height: 14px;}
+    .hideSidebar{display: none;}
+
+    .mt-carousel .mt-practiceSet-box{   min-width: calc(100% - 50px); margin-right: 12px;}
+
+    /* live class practice set */
+    .mt-chapter-tabs ul{overflow: auto;}
+    .mt-chapter-tabs ul li{white-space: nowrap; font-size: 12px; padding: 0px 12; height: 28px;
+        border-radius: 8px; margin-right: 10px;
+    }
+    .mt-topicBox-wrap{flex-wrap: wrap;}
+    .mt-practiceSet-box{width: 100%; padding: 8px; border-radius: 12px; }
+    .mt-lavel-tags span{height: 16px; font-size: 10px; border-radius: 4px;}
+    .mt-filter-label{font-size: 0px; border: 0px; padding: 0px; height: auto;}
+    .mt-search-filters{margin-left: auto;}
+
+    /* crousel for live class video */
+    .mt-carousel.activeCarousel.practiceSet-scroller .mt-liveClassBox{min-width: calc(100% - 48px); margin-right: 12px;}
+    .mt-liveClassBox{width: 100%; padding: 8px; border-radius: 8px;}
+    .mt-viewallLink{margin-right: 16px;}
+    .mt-viewallLink a{font-size: 12px;}
+    .mt-liveClassName{font-size: 14px;}
+    .mt-liveClass-Avatar{width: 98px; min-height: 56px;}
+    .mt-liveClass-content{
+        width: calc(100% - 106px);
+    }
+    .mt-liveClassBy{font-size: 12px;}
+    .mt-liveClassFiles img{max-width: 24px;}
+    .mt-Selectdate{flex-direction: column; padding: 0px 16px;}
+    .mt-productName{font-size: 16px; line-height: 24px;}
+    .mt-recordedClass-screen img{max-width: 100%;}
+    .mt-recodedClass-realted{padding-right: 0px; border-right: 0px;}
+    .mt-recordedClassSidebar{width: 100%;}
+    .mt-dateSide img{max-width: 100%;}
+    .mt-dateSide{width: 100%;}
+    .mt-DateTimeWrap{flex-direction: column;}
+    .mt-scheduleSection{width: 100%; max-width: 100%; border-radius: 0px; border-top: 1px solid #EEEFF4;}
+    .mt-scheduleTime{width: 31px; font-size: 12px; text-align: center;}
+    .mt-scheduleTime:after{width: 9px; height: 9px; margin-left: -6px;}
+}
